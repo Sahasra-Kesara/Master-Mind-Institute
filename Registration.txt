@@ -1,0 +1,38 @@
+
+
+
+Name = Sahasra
+Education Level = Undergraduate
+Age = 22
+Subject = Java
+
+Address = Moratuwa
+
+
+Name = Uthpala
+Education Level = Masters
+Age = 33
+Subject = Project_Management
+
+Address = Piliyandala
+
+
+Name = Thilina
+Education Level = Masters
+Age = 38
+Subject = Java
+Address = Kalaniya
+
+
+Name = Kesara
+Education Level = Phd
+Age = 55
+Subject = Java
+Address = Villorawatte
+
+
+Name = sss
+Education Level = sss
+Age = sss
+Subject = sss
+Address = sss

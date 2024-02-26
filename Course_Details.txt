@@ -1,0 +1,8 @@
+RedHat
+A/L
+Java
+O/L
+Azure
+10
+ASP.Net
+8
